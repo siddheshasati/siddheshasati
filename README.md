@@ -1,5 +1,5 @@
 ## 💫 About Me:
-<br>🖥️Exploring the world of Data Science <br>👨🏽‍💻I'm currently learning Machine learning algorithms and the world of DSA<br>💥Microsoft certified for Azure Az-900 & AWS Cloud Practioner Certified
+<br>🖥️Exploring the world of Artificial Intelligence Day by Day <br>👨🏽‍💻Artificial Intellignece and Machine learning Engineer building end to end projects<br>💥Microsoft certified for Azure Fndamentals Az-900, AWS Cloud Practioner Certified & Cisco Data Science Certified.
  <p>
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
   </p>
