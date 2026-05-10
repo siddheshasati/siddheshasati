@@ -13,12 +13,9 @@
 
 ## 💻 Tech Stack:
 
-### 🧠 Generative AI & Machine Learning
-![LLM](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-black?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-AI%20Agents-red?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-Lifecycle-purple?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
 
-### 📐 Core Engineering & Mathematics
-**Mathematics:** Probability & Statistics | Linear Algebra | Multivariable Calculus  
-**Foundations:** DSA | OOP | System Design | System Architectures | Software Conceptual Design
+### 🧠 Generative AI & Machine Learning
+![LLM](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Framework-blueviolet?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-black?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-AI%20Agents-red?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00758F?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-5C2D91?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-FF6F00?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-Attention-E91E63?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-Lifecycle-purple?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
 
 ### 🌐 Full-Stack & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -28,6 +25,10 @@
 
 ### 🛠️ Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+### 📐 Core Engineering & Mathematics
+![Math](https://img.shields.io/badge/Mathematics-Probability%20%26%20Stats%20%7C%20Linear%20Algebra%20%7C%20Calculus-0052CC?style=flat-square) ![DSA](https://img.shields.io/badge/Core-DSA%20%7C%20OOP-34A853?style=flat-square) ![System Design](https://img.shields.io/badge/Design-System%20Design%20%7C%20Architectures-EA4335?style=flat-square) ![Software](https://img.shields.io/badge/Engineering-Software%20Conceptual%20Design-FBBC05?style=flat-square)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siddheshasati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
