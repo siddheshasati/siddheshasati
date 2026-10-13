@@ -1,42 +1,62 @@
-## 💫 About Me:
-<br>🤖 **Generative AI & Machine Learning Engineer** building production-grade agentic workflows and RAG pipelines.
-<br>📉 Deeply familiar with the **Mathematical foundations** (Linear Algebra, Calculus, Statistics) behind ML and Deep Learning.
-<br>✍️ I document my research and AI journey on [Substack](https://substack.com/@siddheshasati).
-<br>💥 **Certified Professional:** Microsoft Azure Fundamentals (AZ-900), AWS Cloud Practitioner, & Cisco Data Science.
+# Hi, I'm Siddhesh Asati 👋
 
- <p>
-    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
- </p>
+**Generative AI Developer & Full-Stack Developer**
 
-## 🌐 Socials & Publications:
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?logo=substack&logoColor=white)](https://substack.com/@siddheshasati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhesh-asati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezterminator) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SiddheshAsati) 
+I build LLM-powered applications: pipelines, agentic workflows, and the APIs and interfaces around them. I like understanding how things work under the hood, from the math behind ML to the plumbing that makes an AI feature reliable in production.
 
-## 💻 Tech Stack:
-
-
-### 🧠 Generative AI & Machine Learning
-![LLM](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blue?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Framework-blueviolet?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-black?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-AI%20Agents-red?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00758F?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-5C2D91?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-FF6F00?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-Attention-E91E63?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-Lifecycle-purple?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
-
-### 🌐 Full-Stack & API Development
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-### ☁️ Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-### 🛠️ Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-### 📐 Core Engineering & Mathematics
-![Math](https://img.shields.io/badge/Mathematics-Probability%20%26%20Stats%20%7C%20Linear%20Algebra%20%7C%20Calculus-0052CC?style=flat-square) ![DSA](https://img.shields.io/badge/Core-DSA%20%7C%20OOP-34A853?style=flat-square) ![System Design](https://img.shields.io/badge/Design-System%20Design%20%7C%20Architectures-EA4335?style=flat-square) ![Software](https://img.shields.io/badge/Engineering-Software%20Conceptual%20Design-FBBC05?style=flat-square)
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddheshasati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddheshasati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshasati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddheshasati&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🌐 [Portfolio](https://siddheshasati.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/siddhesh-asati) · ✍️ [Substack](https://substack.com/@siddheshasati) · 𝕏 [@SiddheshAsati](https://x.com/SiddheshAsati)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddheshasati&icon=1&color=12)](https://visitcount.itsvg.in)
+
+## 🔭 What I Work On
+
+- **Retrieval-Augmented Generation (RAG):** chunking, embeddings, rankings, hybrid search, GraphRAG-style retrieval
+- **Agentic AI:** tool-calling agents and multi-step workflows with LangChain, LangGraph and LlamaIndex
+- **Backend & APIs:** FastAPI services that serve models and agents cleanly
+- **Frontend:** React or Streamlit interfaces for chat, dashboards and analytics tools
+- **Data layer:** SQL, DuckDb, Neo4j graph database and analytics-oriented tooling that LLMs can query reliably
+
+---
+
+## 🧰 Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Generative AI** | LLMs, RAG, GraphRAG, Agentic AI, LangChain, LangGraph, LlamaIndex |
+| **Machine Learning** | NLP, Computer Vision, Neural Networks, Transformers, TensorFlow, scikit-learn, MLflow |
+| **Backend** | Python, FastAPI, Node.js, Django, Java, C++ |
+| **Frontend** | React, JavaScript, HTML5, CSS3, Streamlit |
+| **Cloud & Data** | AWS, Azure, Databricks, SQL, MongoDB, Postgres, DuckDB, Neo4j |
+| **Foundations** | Data Structures & Algorithms, OOP, System Design, Linear Algebra, Calculus, Probability & Statistics |
+
+---
+
+## 🏁 Beyond the Code
+
+I enjoy learning in the open and around other builders:
+
+- 🏆 I take part in **hackathons**, where building fast under constraints teaches me a lot
+- 🛠️ I attend **workshops** to pick up new tools and techniques hands-on
+- ✍️ I write about my research and AI learning journey on [Substack](https://substack.com/@siddheshasati)
+
+---
+
+## 🎓 Background
+
+- **B.E. in Computer Science**, Sinhgad Institute of Technology and Science, Pune (2025)
+- **Generative AI Engineer Intern**, Hexaware Technologies, working on RAG pipelines and agentic AI
+- **Generative AI Developer**, Bajaj Life Insurance Co. via XpertLadr Technologies (current)
+
+---
+
+## 🌱 Currently
+
+- Building and improving LLM applications over enterprise data
+- Going deeper into agent design, retrieval quality and evaluation
+- Strengthening my system design skills
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about LLMs, RAG, agents or full-stack AI products. The best way to reach me is [LinkedIn](https://linkedin.com/in/siddhesh-asati) or through my [portfolio](https://siddheshasati.vercel.app).
