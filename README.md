@@ -3,8 +3,7 @@
 **Generative AI Developer & Full-Stack Developer**
 
 I build LLM-powered applications: pipelines, agentic workflows, and the APIs and interfaces around them. I like understanding how things work under the hood, from the math behind ML to the plumbing that makes an AI feature reliable in production.
-
-🌐 [Portfolio](https://siddheshasati.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/siddhesh-asati) · ✍️ [Substack](https://substack.com/@siddheshasati) · 𝕏 [@SiddheshAsati](https://x.com/SiddheshAsati)
+💼 [LinkedIn](https://linkedin.com/in/siddhesh-asati) · ✍️ [Substack](https://substack.com/@siddheshasati) · 𝕏 [@SiddheshAsati](https://x.com/SiddheshAsati)
 
 ---
 
@@ -59,4 +58,4 @@ I enjoy learning in the open and around other builders:
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about LLMs, RAG, agents or full-stack AI products. The best way to reach me is [LinkedIn](https://linkedin.com/in/siddhesh-asati) or through my [portfolio](https://siddheshasati.vercel.app).
+I'm always happy to talk about solving business problem into an full-stack AI products.
