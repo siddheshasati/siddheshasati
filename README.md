@@ -3,6 +3,7 @@
 **Generative AI Developer & Full-Stack Developer**
 
 I build LLM-powered applications: pipelines, agentic workflows, and the APIs and interfaces around them. I like understanding how things work under the hood, from the math behind ML to the plumbing that makes an AI feature reliable in production.
+
 💼 [LinkedIn](https://linkedin.com/in/siddhesh-asati) · ✍️ [Substack](https://substack.com/@siddheshasati) · 𝕏 [@SiddheshAsati](https://x.com/SiddheshAsati)
 
 ---
